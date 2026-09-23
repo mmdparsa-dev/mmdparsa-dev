@@ -1,6 +1,6 @@
 <div align="center">
 <img width="200" alt="logo-mmdparsa-light" src="https://github.com/user-attachments/assets/928bbd46-e51d-4188-b610-dcba1ac9b2f1">
- <h1>Hi, I'm Parsa 👋</h1>
+ <h1>Hi, I'm mmdparsa 👋</h1>
   <p>Software Developer & Open-Source Contributor</p>
   
   <a href="https://reymit.ir/mmdparsa_dev">
